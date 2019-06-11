@@ -99,7 +99,6 @@ class User extends React.Component {
    }
   render ()
   {
-   console.log(this.props);
 
     this.checkval =  this.props.val;
     return (
